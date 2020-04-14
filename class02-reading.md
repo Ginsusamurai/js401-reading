@@ -28,18 +28,18 @@
   1. severity level (low-high, 0-10)
 * JS can throw an error on command which lets them be `caught` rather than breaking the whole app
 * extensive lists of System Errors can help debug 
-  EACCESS - an attempt to access a file without the right permissions
-  EADDRINUSE - an attempt to start a server on a PORT that is already in use
-  ECONNREFUSED - a connection was deliberately refused by the target machine
-  ECONNRESET - a connection was forcibly closed by a peer
-  EEXIST - a file exists and the attempted action required that it didn’t
-  EISDIR - an action expected to act on a file but found a directory
-  EMFILE - too many files were open for your operating system to handle
-  ENOENT - an action expected a file, but did not find one
-  ENOTDIR - an action expected a directory, but found something else
-  ENOTEMPTY - an action expected an empty directory, but found one with data in it
-  EPERM - an attempt to do something that you currently don’t have permissions to do
-  EPIPE - an attempt to write data to a connection that had been closed
+  - EACCESS - an attempt to access a file without the right permissions
+  - EADDRINUSE - an attempt to start a server on a PORT that is already in use
+  - ECONNREFUSED - a connection was deliberately refused by the target machine
+  - ECONNRESET - a connection was forcibly closed by a peer
+  - EEXIST - a file exists and the attempted action required that it didn’t
+  - EISDIR - an action expected to act on a file but found a directory
+  - EMFILE - too many files were open for your operating system to handle
+  - ENOENT - an action expected a file, but did not find one
+  - ENOTDIR - an action expected a directory, but found something else
+  - ENOTEMPTY - an action expected an empty directory, but found one with data in it
+  - EPERM - an attempt to do something that you currently don’t have permissions to do
+  - EPIPE - an attempt to write data to a connection that had been closed
 
 Addtional Materials
 [context](https://www.youtube.com/watch?v=fjJoX9F_F5g)
