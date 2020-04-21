@@ -5,3 +5,4 @@
 * [Class 03 Reading - Data Modeling & NoSQL Databases](class03-reading.md)
 * [Class 04 Reading - Advanced Mongo/Mongoose](class04-reading.md)
 * [Linked Lists](linked-lists.md)
+* [HTTP and REST](class06-reading.md)
