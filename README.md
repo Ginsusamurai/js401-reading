@@ -6,3 +6,4 @@
 * [Class 04 Reading - Advanced Mongo/Mongoose](class04-reading.md)
 * [Linked Lists](linked-lists.md)
 * [HTTP and REST](class06-reading.md)
+* [Express](class07-reading.md)
