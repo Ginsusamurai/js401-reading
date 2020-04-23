@@ -7,3 +7,4 @@
 * [Linked Lists](linked-lists.md)
 * [HTTP and REST](class06-reading.md)
 * [Express](class07-reading.md)
+* [Express Routing](class08-reading.md)
