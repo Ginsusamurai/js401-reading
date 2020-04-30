@@ -13,7 +13,7 @@
 
 - authorization > once logged in, each subsequent request will include the jwt
   - this is common with single-sign-on
-Information Exchange > sender and reader both need the matching key
+- Information Exchange > sender and reader both need the matching key
 
 ## Additional Resources
 
