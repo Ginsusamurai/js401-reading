@@ -12,4 +12,4 @@
 * [Stakcs and Queues](class10-reading.md)
 * [Authenticating](class11-reading.md)
 * [OAuth](class12-reading.md)
-
+* [Bearer Authorization](class13-reading.md)
