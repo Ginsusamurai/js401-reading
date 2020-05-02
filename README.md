@@ -14,3 +14,6 @@
 * [OAuth](class12-reading.md)
 * [Bearer Authorization](class13-reading.md)
 * [Access Control (ACL)](class14-reading.md)
+* [trees](class15-reading.md)
+* [event driven applications](class16-reading.md)
+
