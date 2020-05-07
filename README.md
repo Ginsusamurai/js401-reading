@@ -18,3 +18,4 @@
 * [event driven applications](class16-reading.md)
 * [TCP Servers](class17-reading.md)
 * [socket.io](class18-reading.md)
+* [Message Queues](class19-reading.md)
