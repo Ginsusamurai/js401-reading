@@ -42,9 +42,9 @@
 - adding to the end is O(n)
 
 - array vs linked list
-insert/delete > slow vs fast
-serach > fast vs slow
-size > static vs dynamic
-memory > fully allocated vs only neccessary allocation
-finding > fast vs requires traversal
-size > good if you know size of list VS don't know size
+- insert/delete > slow vs fast
+- serach > fast vs slow
+- size > static vs dynamic
+- memory > fully allocated vs only neccessary allocation
+- finding > fast vs requires traversal
+- size > good if you know size of list VS don't know size
