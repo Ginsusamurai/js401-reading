@@ -20,3 +20,4 @@
 * [socket.io](class18-reading.md)
 * [Message Queues](class19-reading.md)
 * [Component Based UI](class26-reading.md)
+* [React Testing and Deployment](class27-reading.md)
