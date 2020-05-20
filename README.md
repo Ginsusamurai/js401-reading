@@ -21,3 +21,4 @@
 * [Message Queues](class19-reading.md)
 * [Component Based UI](class26-reading.md)
 * [React Testing and Deployment](class27-reading.md)
+* [Props and State](class28-reading.md)
