@@ -24,3 +24,4 @@
 * [Props and State](class28-reading.md)
 * [Component Composition](class29-reading.md)
 * [Hash Tables](class30-reading.md)
+* [Hooks API](class31-reading.md)
