@@ -25,3 +25,4 @@
 * [Component Composition](class29-reading.md)
 * [Hash Tables](class30-reading.md)
 * [Hooks API](class31-reading.md)
+* [Custom Hooks](class32-reading.md)
