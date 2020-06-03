@@ -30,3 +30,4 @@
 * [React Login and Auth](class34-reading.md)
 * [Redux](class35-reading.md)
 * [Redux - Combined Reducers](class37-reading.md)
+* [Redux - Asynchronous Actions](class38-reading.md)
