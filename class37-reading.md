@@ -3,21 +3,19 @@
 - just pulling in more than one reducer from source and creating a keyed object from them
 - any component can reach into the store and get any/all of them
 
-
-## Why bother?
+## Why bother
 
 - single responsibility principle
   - each reducer should only handle 1 part of state
   - more work/boilerplate? yes
   - allow for decoupled logic? yes
 
-## What about actions?
+## What about actions
 
 - each reducer has it's own actions and creators
 - however, these can cross polinate
   - can send `RESET` across multiple reducers
   - can be error prone if not understood
-
 
 ## Examples
 
@@ -48,7 +46,7 @@ const mapDispatchToProps = (dispatch, getState) => ({
   deleteItem: id => dispatch(actions.deleteItem(id)),
   hideDetails: id => dispatch(itemActions.hideDetails()),
 });
-``` 
+```
 
 - wide use of `RESET`
 
@@ -77,7 +75,6 @@ export default function reducer (state = initialState, action) {
   }
 }
 ```
-
 
 ### Resources
 
