@@ -31,3 +31,4 @@
 * [Redux](class35-reading.md)
 * [Redux - Combined Reducers](class37-reading.md)
 * [Redux - Asynchronous Actions](class38-reading.md)
+* [Redux - Additional Topics](class39-reading.md)
